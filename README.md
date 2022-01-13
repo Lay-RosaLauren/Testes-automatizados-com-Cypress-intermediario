@@ -1,2 +1,2 @@
-# Testes-automatizados-com-Cypress-basico-
+# Testes-automatizados-com-Cypress-intermediario-
 Curso da TAT - Teacher: Walmyr Junior

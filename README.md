@@ -1,4 +1,4 @@
-# Testes-automatizados-com-Cypress-intermediario
+# Testes-automatizados-com-Cypress-intermediário
 Curso da TAT - Teacher: Walmyr Junior
 
 - Aula 1 - Setup do ambiente local com Docker
